@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 becb483b165069b583a1293cff76b98434c27ba0 olajumoke4521 <haonatararomi@gmail.com> 1635756052 +0100	commit (initial): My Django Girls app, first commit
+becb483b165069b583a1293cff76b98434c27ba0 becb483b165069b583a1293cff76b98434c27ba0 olajumoke4521 <haonatararomi@gmail.com> 1635757157 +0100	Branch: renamed refs/heads/master to refs/heads/main
+becb483b165069b583a1293cff76b98434c27ba0 27b129c0edd9e68fdc21db50cae92bfc0a3e8c08 olajumoke4521 <haonatararomi@gmail.com> 1635803123 +0100	commit: Changed the HTML for the site.
+27b129c0edd9e68fdc21db50cae92bfc0a3e8c08 12ab5ff31452b6df092eb03042be022d5b82be8a olajumoke4521 <haonatararomi@gmail.com> 1635944487 +0100	commit: Modified templates to display posts from database.
+12ab5ff31452b6df092eb03042be022d5b82be8a 5c529678388612677b0ef81e475a19517d79bf1b olajumoke4521 <haonatararomi@gmail.com> 1636013785 +0100	commit: Added view and template for detailed blog post as well as CSS for the site.
+5c529678388612677b0ef81e475a19517d79bf1b deb6514d65eaa080f286a7c484bdf8f6648a7d23 olajumoke4521 <haonatararomi@gmail.com> 1636032118 +0100	commit: Added views to create/edit blog post inside the site.
